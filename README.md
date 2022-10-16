@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer, Graduate Student
 ----------------------------
 
-I worked as an assistant system engineer in TCS where my responsibilities include migrating, modifying the existing modules to support the new requirements using C, Sql, Unix and designing unix scripts for day-to-day activities, debugging and performing root cause analysis. A freelancing subject matter expert in computer sience at chegg and data science enthusiast actively looking for a data science analyst role. To share the knowledge with my peers, I published few of my articles on medium and got published by Analytics Vidya.
+I worked as an assistant system engineer in TCS where my responsibilities include migrating, modifying the existing modules to support the new requirements using C, Sql, Unix and designing unix scripts for day-to-day activities, debugging and performing root cause analysis. A freelancing subject matter expert in computer science at chegg and a data science enthusiast actively looking for an analyst role. To share the knowledge with my peers, I published few of my articles on medium and got published by Analytics Vidya.
 
 * 🌍  I'm based in Cincinnati
 * 🖥️  See my portfolio at [Ravi Teja Gundimeda](http://https://www.linkedin.com/in/ravi-teja-gundimeda/)
